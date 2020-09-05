@@ -1,1 +1,2 @@
-# js practice
+# js practices
+js 練習檔
